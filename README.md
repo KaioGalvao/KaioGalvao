@@ -1,9 +1,8 @@
 <h1 align="center" >Olá Dev!  😁😁😁</h1> 
 
 <div >
-  <kbd style="border: 10px solid white">
-  <img  src="https://cdn.discordapp.com/attachments/899380831808811091/899413992034938880/Design_sem_nome_2.png" >
-  </kbd>
+  <img  src="https://cdn.discordapp.com/attachments/899380831808811091/899444356765851649/Design_sem_nome_8.png" >
+ 
 </div><br>
 
 <div align="center">
