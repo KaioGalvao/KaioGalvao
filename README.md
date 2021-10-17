@@ -25,3 +25,7 @@
   <img align="center" alt="Kaio-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="right" alt="Kaio-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/899380831808811091/899387487460413480/5qs5c5.gif">
 </div>
+  
+  
+  
+![Snake animation](https://github.com/KaioGalvao/KaioGalvao/blob/output/github-contribution-grid-snake.svg)
