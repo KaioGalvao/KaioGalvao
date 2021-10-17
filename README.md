@@ -1,7 +1,11 @@
 ### Olá Dev!
 
-- 💻 Estudando: C, Javascript, Css, Html e Java. 
-- 😄 Pronouns: ele/dele.
+
+
+<div>
+  <img  src="https://cdn.discordapp.com/attachments/899380831808811091/899386271431032872/Kaio_2.png">
+</div>
+
 <br>
 <div align="center">
   <a href="https://github.com/KaioGalvao">
