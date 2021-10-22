@@ -1,7 +1,7 @@
 <h1 align="center" >Olá Dev!  😁😁😁</h1> 
 
 <div >
-  <img  src="https://cdn.discordapp.com/attachments/899380831808811091/901092159627870228/1634907469639.png" style="border-radius: 20px;"> 
+  <img  src="https://cdn.discordapp.com/attachments/899380831808811091/901093397115310140/1634907797269.png" style="border-radius: 20px;"> 
 </div><br>
 
 <div align="center">
