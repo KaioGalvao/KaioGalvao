@@ -1,4 +1,4 @@
-![Typing Effect](https://readme-typing-svg.demolab.com/?lines=Olá+Dev!+😁😁😁;Bem+vindo+aos+meus+repositórios!&center=true&size=30&pause=1000&color=ffffff&width=1000&cursorColor=ff0000&duration=4000)
+![Typing Effect](https://readme-typing-svg.demolab.com/?lines=Olá+Dev!+😁😁😁;Bem+vindo+aos+meu+Git!&center=true&size=30&pause=1000&color=ffffff&width=1000&cursorColor=ff0000&duration=4000)
 <br>
 
 <div align="center">
