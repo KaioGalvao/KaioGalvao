@@ -52,5 +52,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=KaioGalvao&color=blue&style=flat-square)
 </div>
   
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KaioGalvao/snk/raw/output/github-contribution-grid-snake.svg)
    
