@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/KaioGalvao">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=KaioGalvao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioGalvao&layout=compact&langs_count=7&theme=dark"/>
+  <img height="175em" src="https://github-readme-stats-lake-nu.vercel.app/api?username=KaioGalvao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats-lake-nu.vercel.app/api/top-langs/?username=KaioGalvao&layout=compact&langs_count=10&theme=dark"/>
 </div><br>
  
 <h3><br><br> 👩‍💻 Tasks<h3>
