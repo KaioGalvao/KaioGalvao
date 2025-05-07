@@ -6,41 +6,30 @@
   <img height="175em" src="https://github-readme-stats-lake-nu.vercel.app/api?username=KaioGalvao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats-lake-nu.vercel.app/api/top-langs/?username=KaioGalvao&layout=compact&langs_count=10&theme=dark"/>
 </div><br>
- 
-<h3><br><br> 👩‍💻 Tasks<h3>
-  
-  ##
-  <div style="display: flex">
-     <img align="center" alt="Kaio-dnet" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
-    <img align="center" alt="Kaio-csharp" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Kaio-SQLServer" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-    <img align="center" alt="Kaio-mysql" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="Kaio-Js" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Kaio-Ts" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Kaio-React" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="Kaio-git" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Kaio-Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="Kaio-Postman" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-    <img align="center" alt="Kaio-C" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaioGalvao&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaioGalvao&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
+    
+
+  <br>
+<div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,tailwind,bootstrap,nodejs,aws,azure,docker,figma,github,materialui,postman,graphql,vite,c,cs,java,py,mysql,sqlite,dotnet,angular" />
+</a>
+
+
   </div>
 
-  <h3><br><br>📘 Estudando<h3>
-    
+
 ##
-    
-<div style="display: flex">
-    <img align="center" alt="AWS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-    <img align="center" alt="Kaio-Python" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="Kaio-Angular" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-    <img align="center" alt="Kaio-Tailwind" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
-    <img align="center" alt="Kaio-Flask" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-    <img align="center" alt="Kaio-Azure" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-    <img align="center" alt="Kaio-Docker" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-</div>
+
+  <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=KaioGalvao&row=1&column=6&theme=darkhub&margin-w=15&margin-h=15"/>
+  </div>
   
-  
-  <h3><br><br>📲 Entre em contato comigo<h3>
+  <h3>📲 Entre em contato comigo<h3>
     
 ##
   
@@ -49,8 +38,11 @@
   <a href = "mailto:kaiovsagalvao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://linkedin.com/in/kaio-galvao"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=KaioGalvao&color=blue&style=flat-square)
 </div>
+
+ 
 
 ![github-user-contribution (1)](https://github.com/user-attachments/assets/6e0624f3-48fc-47cf-b2ee-96665a488880)
 
