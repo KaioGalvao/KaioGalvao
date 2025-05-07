@@ -2,6 +2,8 @@
 
 ##
 
+  ![Status](./profile-3d-contrib/profile-night-green.svg)
+
 <div align="center">
   <img height="175em" src="https://github-readme-stats-lake-nu.vercel.app/api?username=KaioGalvao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="175em" src="https://github-readme-stats-lake-nu.vercel.app/api/top-langs/?username=KaioGalvao&layout=compact&langs_count=10&theme=dark"/>
