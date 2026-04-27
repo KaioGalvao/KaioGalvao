@@ -22,16 +22,15 @@
 
 ##
 
-<div align="center" >
-  <img src="https://github-profile-trophy.vercel.app/?username=KaioGalvao&row=1&column=6&theme=darkhub&margin-w=15&margin-h=15"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaioGalvao&show_icons=true&theme=dark" alt="Estatísticas do GitHub do Kaio" />
 </div>
-  
-##
 
-<div align="center" style="display: flex; align-items: center; gap: 10px;">
-  
-<h3>Visitas ao Perfil</h3>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KaioGalvao}/count.svg" /></p> 
+<br />
+
+<div align="center">
+  <h3>Visitas ao Perfil</h3>
+  <img src="https://komarev.com/ghpvc/?username=KaioGalvao&color=blue&style=flat-square&label=VISITAS" alt="Contador de Visitas" />
 </div>
 
  ##
