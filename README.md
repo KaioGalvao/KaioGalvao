@@ -23,7 +23,12 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaioGalvao&show_icons=true&theme=dark" alt="Estatísticas do GitHub do Kaio" />
+
+  <div align="center">
+  <img height="160em" src="https://stats-fork-profile.vercel.app/api?username=KaioGalvao&show_icons=true&theme=react" />
+
+  <img height="160em" src="https://stats-fork-profile.vercel.app/api/top-langs/?username=KaioGalvao&layout=compact&theme=react&hide=css&exclude_repo=stats-fork-profile" />
+  </div>
 </div>
 
 <br />
